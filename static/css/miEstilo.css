@@ -1,0 +1,28 @@
+legend {
+    font-family: serif;
+    text-align: center;
+    color: #377ba8;
+    background-color: lightgrey;
+}
+form {
+    width: 350px;
+    padding: 16px;
+    border-radius: 10px;
+    margin: auto;
+    background-color: #ccc;
+}
+
+input {
+    border-radius: 3px;
+    display: inline-block;
+    padding: 3px 10px 3px 10px;
+}
+#idButton {
+    text-align: center;
+    font-weight: bold;
+    
+}
+
+body{
+    background-color: aquamarine;
+}
